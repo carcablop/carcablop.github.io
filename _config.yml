@@ -80,13 +80,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Carolina"
+  name             : "Your Sidebar Name"
   avatar           : "profile.png"
-  bio              : "Computer Engineer of University of Sevilla"
-  location         : "Sevilla-Spain"
+  bio              : "Your biography for the left-hand sidebar"
+  location         : "Location"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : ""http://scholar.google.com/this-is-a-test"
+  googlescholar    : "http://yourfullgooglescholarurl.com"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -96,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "carcablop"
+  github           : [metadata]
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/testaccount"
+  orcid            : "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "@carcablop"
+  twitter          : "replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
